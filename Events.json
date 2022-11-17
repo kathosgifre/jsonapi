@@ -2,7 +2,7 @@
   {
     "id": "bitcoin",
     "symbol": "btc",
-    "name": "Vitcoin",
+    "name": "Bitcoin",
     "image": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png?1547033579",
     "current_price": 16618.59,
     "market_cap": 319220003689,
@@ -30,7 +30,7 @@
   {
     "id": "ethereum",
     "symbol": "eth",
-    "name": "Ethereum",
+    "name": "Bitcoin",
     "image": "https://assets.coingecko.com/coins/images/279/large/ethereum.png?1595348880",
     "current_price": 1210.85,
     "market_cap": 145870827404,
@@ -62,7 +62,7 @@
   {
     "id": "tether",
     "symbol": "usdt",
-    "name": "Tether",
+    "name": "Bitcoin",
     "image": "https://assets.coingecko.com/coins/images/325/large/Tether.png?1668148663",
     "current_price": 1.001,
     "market_cap": 66031341998,
