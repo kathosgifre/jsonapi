@@ -6,29 +6,5 @@
     "description": "Boda de José",
     "place": "Florida",
     "hour": "21:00"
-  },
-  {
-    "id": "",
-    "date": "20/12/2022",
-    "name": "15 años",
-    "description": "15 años de María",
-    "place": "Miami",
-    "hour": "20:00"
-  },
-  {
-    "id": "",
-    "date": "31/12/2022",
-    "name": "Fin de año",
-    "description": "Celebración de fin de año",
-    "place": "Texas",
-    "hour": "19:00"
-  },
-  {
-    "id": "",
-    "date": "07/01/2023",
-    "name": "Día de reyes",
-    "description": "Celebración de día de reyes",
-    "place": "Anna",
-    "hour": "17:00"
-  } 
+  }
 ]
