@@ -23,4 +23,12 @@
     "place": "Texas",
     "hour": "19:00"
   } 
+  {
+    "id": "",
+    "date": "07/01/2023",
+    "name": "Día de reyes",
+    "description": "Celebración de día de reyes",
+    "place": "Anna",
+    "hour": "17:00"
+  } 
 ]
