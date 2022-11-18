@@ -15,4 +15,13 @@
     "place": "Miami",
     "hour": "17:00"
   }
+  },
+    {
+    "id": "",
+    "date": "24/12/2022",
+    "name": "Navidad",
+    "description": "Celebración de la navidad",
+    "place": "NY",
+    "hour": "20:00"
+  }
 ]
