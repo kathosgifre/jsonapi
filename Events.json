@@ -6,5 +6,13 @@
     "description": "Boda de José",
     "place": "Florida",
     "hour": "21:00"
+  },
+    {
+    "id": "",
+    "date": "30/12/2022",
+    "name": "Fin de año",
+    "description": "Celebración,
+    "place": "Miami",
+    "hour": "17:00"
   }
 ]
