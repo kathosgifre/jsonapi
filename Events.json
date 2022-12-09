@@ -14,5 +14,21 @@
     "description": "Celebración de la navidad",
     "place": "NY",
     "hour": "20:00"
+  },
+     {
+    "id": "",
+    "date": "20/12/2022",
+    "name": "Navidad",
+    "description": "Cumpleaños",
+    "place": "NY",
+    "hour": "20:00"
+  },
+     {
+    "id": "",
+    "date": "25/12/2022",
+    "name": "Navidad",
+    "description": "15 años",
+    "place": "NY",
+    "hour": "20:00"
   }
 ]
